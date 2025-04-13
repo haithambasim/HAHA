@@ -1,0 +1,12 @@
+﻿{
+  "applications": {
+    "HAHA": {
+      "type": "dotnet-project",
+      "launchUrl": "https://localhost:44360",
+      "path": "../../HAHA/HAHA.csproj",
+      "execution": {
+        "order": 0
+      }
+    }
+  }
+}
